@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Outlined TextInputLayout Migrated to MaterialComponents (M2) -->
+    <style name="CustomTextInput"
+        parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+        <item name="boxBackgroundColor">@color/surface</item>
+
+        <item name="boxCornerRadiusTopStart">16dp</item>
+        <item name="boxCornerRadiusTopEnd">16dp</item>
+        <item name="boxCornerRadiusBottomStart">16dp</item>
+        <item name="boxCornerRadiusBottomEnd">16dp</item>
+
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxStrokeWidthFocused">2dp</item>
+
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="hintTextColor">@color/onSurfaceVariant</item>
+
+    </style>
+
+    <!-- Exposed Dropdown Migrated to MaterialComponents (M2) -->
+    <style name="CustomDropdown"
+        parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+
+        <item name="boxBackgroundColor">@color/surface</item>
+
+        <item name="boxCornerRadiusTopStart">16dp</item>
+        <item name="boxCornerRadiusTopEnd">16dp</item>
+        <item name="boxCornerRadiusBottomStart">16dp</item>
+        <item name="boxCornerRadiusBottomEnd">16dp</item>
+
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxStrokeWidthFocused">2dp</item>
+
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="endIconTint">@color/primary</item>
+
+    </style>
+
+    <!-- Calendar Style Migrated to MaterialComponents (M2) -->
+    <style name="CustomCalendarStyle"
+        parent="Widget.MaterialComponents.MaterialCalendar">
+        <item name="android:background">@color/white</item>
+    </style>
+</resources>
