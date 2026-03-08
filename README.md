@@ -1,34 +1,44 @@
-# Android Ruangku
+# 📝 Android Ruangku - Note App
 
-Aplikasi Android sederhana untuk mengelola data ruang.
-
----
-
-## Splash Screen
-![Splash](assets/splash.jpeg)
+Aplikasi Android sederhana untuk mencatat ide, tugas, dan informasi penting dengan mudah.
 
 ---
 
-## Halaman Utama
-![Home1](assets/home1.jpeg)
-![Home2](assets/home2.jpeg)
-![Home3](assets/home3.jpeg)
-![Home4](assets/home4.jpeg)
-![Home5](assets/home5.jpeg)
+## 📱 Splash Screen
+<p align="center">
+  <img src="assets/splash.jpeg" width="220" alt="Splash Screen">
+</p>
 
 ---
 
-## Halaman Add
-![Add1](assets/add1.jpeg)
-![Add2](assets/add2.jpeg)
-![Add3](assets/add3.jpeg)
+## 🏠 Daftar Catatan (Main)
+<p align="left">
+  <img src="assets/home1.jpeg" width="180"> 
+  <img src="assets/home2.jpeg" width="180"> 
+  <img src="assets/home3.jpeg" width="180"> 
+  <img src="assets/home4.jpeg" width="180"> 
+  <img src="assets/home5.jpeg" width="180">
+</p>
 
 ---
 
-## Halaman Edit
-![Edit](assets/edit.jpeg)
+## ➕ Tambah & Edit Catatan
+<p align="left">
+  <img src="assets/add1.jpeg" width="180"> 
+  <img src="assets/add2.jpeg" width="180"> 
+  <img src="assets/add3.jpeg" width="180">
+  <img src="assets/edit1.jpeg" width="180">
+</p>
 
 ---
 
-## Halaman Pengaturan
-![Settings](assets/settings.jpeg)
+## ⚙️ Pengaturan & Lainnya
+<p align="left">
+  <img src="assets/settings1.jpeg" width="180">
+</p>
+
+---
+
+## ✨ Fitur Utama
+* **Manajemen Catatan:** Tambah, edit, dan hapus catatan dengan cepat.
+* **Antarmuka Bersih:** Desain simpel yang fokus pada kemudahan menulis.
